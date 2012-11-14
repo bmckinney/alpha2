@@ -18,6 +18,8 @@
     <icon src="res/icon/cordova_bb_80.png"      width="80"  height="80"  gap:platform="blackberry" />
     <icon src="res/icon/cordova_ios_144.png"    width="144" height="144" gap:platform="ios" />
 
+    <gap:plugin name="ChildBrowser" />
+    
     <gap:splash src="res/screen/android_hdpi_landscape.png"      width="800"  height="480"  gap:platform="android" />
     <gap:splash src="res/screen/android_hdpi_portrait.png"       width="480"  height="800"  gap:platform="android" />
     <gap:splash src="res/screen/android_ldpi_landscape.png"      width="320"  height="200"  gap:platform="android" />
